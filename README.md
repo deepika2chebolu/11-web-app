@@ -10,4 +10,4 @@
 * css
 * js
 * react
-
+* angular
