@@ -2,7 +2,7 @@
 
 #### By _**{deepika}**_
 
-#### _{Brief description of application}_
+#### _{project}_
 
 ## Technologies Used
 
@@ -11,3 +11,4 @@
 * js
 * react
 * angular
+## for development
